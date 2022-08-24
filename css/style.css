@@ -127,8 +127,8 @@ body{
 }
 .all2{
     margin-left: 5%;
-    width: 30%;
-    float: left;
+    /* width: 30%; */
+    /* float: left; */
     height: 100%;
 }
 .spa{
@@ -298,4 +298,9 @@ margin-left: 0;
     margin-left: 0;
     ;
 }
+body{
+    margin:0;
+    padding: 0;
+}
+
 }
